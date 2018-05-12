@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41162
     wikipedia: http://en.wikipedia.org/wiki/Emily_Eden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46260#Up-the-Country
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
