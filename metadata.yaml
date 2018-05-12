@@ -1,0 +1,30 @@
+_repo: Up-the-Country_46260
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46260-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eden, Emily
+    birthdate: 1797
+    deathdate: 1869
+    gutenberg_agent_id: '41162'
+    url: http://www.gutenberg.org/2009/agents/41162
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Eden
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46260'
+  lccn: '24024238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Eden, Emily, 1797-1869 -- Correspondence'
+title: '''Up the Country'': Letters Written to Her Sister from the Upper Provinces
+  of India'
+url: http://www.gutenberg.org/ebooks/46260
